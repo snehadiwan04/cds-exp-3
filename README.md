@@ -1,10 +1,9 @@
 # Experiment 3
 ## Aim -
-To write C++ programs that demonstrate the use of different operators such as arithmetic, assignment, logical and comparison operators.
-
+To study and implement operators in C++.
 ## Theory - 
 Operators are special symbols used to perform operations on variables and values. 
-Understanding how to use different operators is fundamental to performing calculations, assigning values, decision making, performing logical computations and making comparisons in programming.
+Understanding how to use different operators is fundamental to performing calculations, assigning values, decision-making, performing logical computations, and making comparisons in programming.
 
 ### Arithmetic Operators:
 
@@ -12,11 +11,11 @@ These include +(addition), -(subtraction), *(multiplication), /(division), and %
 
 ### Assignment Operators:
 
-These operators are used to assign values to variables. The basic assignment operator = assigns a value to a variable, while operators like +=, -=, *=, and /= combine the particular arithmetic operation with assignment.
+These operators are used to assign values to variables. The basic assignment operator = assigns a value to a variable, while operators like +=, -=, *=, and /= combine the particular arithmetic operation with the assignment.
 
 ### Logical operators:
 
-These operators are used fot decision making and performing logical computations. These includes AND(&& or AND), OR(|| or OR), NOT(! or NOT), XOR(exclusive OR).
+These operators are used for decision-making and performing logical computations. These includes AND(&& or AND), OR(|| or OR), NOT(! or NOT), XOR(exclusive OR).
 
 ### Comparison Operators:
 
@@ -141,7 +140,11 @@ logical operators: show how to perform logical computations && AND, || OR, ! NOT
 Comparison Operators: Illustrate how to compare values using ==, !=, <, >, <=, and >=.
 
 ## Output -
-### 1. 
+### 1. ![Screenshot 2024-08-02 001754](https://github.com/user-attachments/assets/fef0375d-9b9a-4131-b682-d8ca987462eb)
+### 2. ![Screenshot 2024-08-02 001929](https://github.com/user-attachments/assets/65330bb5-dd0e-4af3-a19a-0ffa8e451f40)
+### 3. ![Screenshot 2024-08-02 002043](https://github.com/user-attachments/assets/6505896d-b557-46c8-a45b-8c45e3231209)
+### 4. ![Screenshot 2024-08-02 002148](https://github.com/user-attachments/assets/e83dd89c-59fc-438a-a7f2-ca86010cdc8b)
+
 
 ## Conclusion -
 These programs provide a clear understanding of how to use various operators in C++.
