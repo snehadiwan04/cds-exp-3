@@ -1,6 +1,9 @@
 # Experiment 3
 ## Aim -
 To study and implement operators in C++.
+## Apparatus -
+Online compiler (programiz)
+
 ## Theory - 
 Operators are special symbols used to perform operations on variables and values. 
 Understanding how to use different operators is fundamental to performing calculations, assigning values, decision-making, performing logical computations, and making comparisons in programming.
